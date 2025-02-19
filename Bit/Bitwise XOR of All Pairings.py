@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution:
     def xorAllNums(self, nums1: List[int], nums2: List[int]) -> int:
         '''Approach: Bit. The bitwise xor of all pairings between nums1 and nums2.
